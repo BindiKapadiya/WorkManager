@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">WorkManager</string>
+    <string name="schedule">Schedule</string>
+    <string name="without_constraint">Without Constraint</string>
+    <string name="with_storage_low">with requiresStorageNotLow()</string>
+    <string name="with_requiresbatterynotlow">with requiresBatteryNotLow()</string>
+    <string name="with_requirescharging">with requiresCharging()</string>
+    <string name="with_requires_device_idle">with requiresDeviceIdle()</string>
+    <string name="with_getrequirednetworktype">with getRequiredNetworkType()</string>
+    <string name="schedule_periodic_work">Schedule Periodic Work</string>
 </resources>
